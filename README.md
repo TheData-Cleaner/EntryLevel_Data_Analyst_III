@@ -161,7 +161,7 @@ This multidimensional approach demonstrated how several student characteristics 
 
 The original Data Analyst III portfolio report documents the market analysis, root cause analysis, data integration process, SQL methodology, exploratory analysis, findings, visualizations, and recommendations developed during the EntryLevel Advanced SQL experience.
 
-[View the Original Data Analyst III Portfolio](REPLACE_WITH_PDF_LINK)
+[View the Original Data Analyst III Portfolio](https://github.com/TheData-Cleaner/EntryLevel_Data_Analyst_III/blob/main/Entry%20Level%20Data%20Analyst%20III%20-%20Portfolio.pdf)
 
 <h2>🔎 KEY FINDINGS</h2>
 
