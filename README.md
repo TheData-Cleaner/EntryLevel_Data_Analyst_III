@@ -45,6 +45,11 @@ The project used four datasets containing information related to university part
 
 The datasets were downloaded as CSV files, prepared using Excel, and imported into the SQL environment. SQL joins were then used to combine the datasets for analysis.
 
+- [County Information](Data/county_info.csv)
+- [Student Academic Information](Data/student_academic_info.csv)
+- [Student Family Details](Data/student_family_details.csv)
+- [Student Personal Details](Data/student_personal_details.csv)
+
 The combined data supported analysis across variables including:
 
 - Gender
