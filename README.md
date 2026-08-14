@@ -181,7 +181,7 @@ Lower-income and non-urban prospective students emerged as segments warranting a
 
 Rather than assuming that any individual characteristic causes university enrollment, these findings can be used to identify student segments for deeper research and more targeted recruitment strategies.
 
-<h2>Project Outcomes</h2>
+<h2>🎯 PROJECT OUTCOMES</h2>
 
 - Integrated four datasets for relational analysis
 - Used SQL joins to create a multidimensional student dataset
